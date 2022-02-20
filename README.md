@@ -51,7 +51,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
+---
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 ```javascript
