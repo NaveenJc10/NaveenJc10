@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">Computers have held a life-long fascination for me. What started as an interest in just using them developed into a growing desire to understand how a collection of simple ideas and components can interact to produce an entity as complex and adaptable as a computer</h3>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 - 📚 I’m currently learning **VB.NET, Android Development**
 - 📫 How to reach me **naveenjc10@gmail.com**
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 
 <p align="left">
 </p>
