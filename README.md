@@ -36,7 +36,7 @@
 
 
 
----
+
 #### 🎯📒 GOALS IN 2022:
 
 - Learn CSS frameworks (Bootstrap,Taliwind)
