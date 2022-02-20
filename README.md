@@ -2,6 +2,8 @@
 <h3 align="center">Computers have held a life-long fascination for me. What started as an interest in just using them developed into a growing desire to understand how a collection of simple ideas and components can interact to produce an entity as complex and adaptable as a computer</h3>
 
 - 🌱 I’m currently learning **VB.NET, Android Development**
+- <img width="4%" src="https://cdn-icons.flaticon.com/png/512/3212/premium/3212202.png?token=exp=1645343110~hmac=96c8dbdf11f76f691bbe9feb1968f8e8"
+- 
 
 - 📫 How to reach me **naveenjc10@gmail.com**
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
