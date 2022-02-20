@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">Computers have held a life-long fascination for me. What started as an interest in just using them developed into a growing desire to understand how a collection of simple ideas and components can interact to produce an entity as complex and adaptable as a computer</h3>
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" /> </a>
 </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
