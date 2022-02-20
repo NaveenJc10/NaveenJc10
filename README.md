@@ -13,7 +13,7 @@
 </p>
 
 
-#### <h2> ⚔ Languages & TOOLS: </h2>
+#### <h2> ⚔ Languages & Tools: </h2>
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
