@@ -50,8 +50,12 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-💫✨💿🔮☕👩🏻‍💻
+
 ---
+<img
+  align="left"
+  💫✨💿🔮☕👩🏻‍💻
+>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5d87hmo0aa8xed5ob8gvvp7fd&cover_image=true&theme=novatorem&bar_color=1725e8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
