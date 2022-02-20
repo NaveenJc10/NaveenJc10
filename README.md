@@ -20,13 +20,12 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
- <code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
-
+<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png"></code>
 <code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/1365/1365297.png"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <code><img width="4%" src="https://img.icons8.com/fluency/344/android-studio--v3.png"></code>
+ <code><img width="4%" src="https://img.icons8.com/fluency/344/android-studio--v3.png"></code>
 </p>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img width="7%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fee31f46e9abd99c76155b28697094c9/pycharm.png"></code>
