@@ -20,9 +20,9 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+<code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/1365/1365297.png"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png"></code>
-<code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/1365/1365297.png"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://img.icons8.com/fluency/344/android-studio--v3.png"></code>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
