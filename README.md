@@ -16,7 +16,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
