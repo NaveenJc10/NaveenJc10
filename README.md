@@ -30,7 +30,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 </p>
