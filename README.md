@@ -31,7 +31,7 @@
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img width="7%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fee31f46e9abd99c76155b28697094c9/pycharm.png"></code>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a>
-  
+---  
 
 
 
@@ -51,7 +51,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ---
-
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 ```javascript
 // Which came first: the chicken or the egg?
