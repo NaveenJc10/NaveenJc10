@@ -29,8 +29,8 @@
 </p>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img width="7%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fee31f46e9abd99c76155b28697094c9/pycharm.png"></code>
-  <code><img width="2%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+  <img width="4%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   
 
 
