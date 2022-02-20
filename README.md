@@ -40,6 +40,8 @@
 - Rebuild all social media applications one after the other, to get better practise
 
 ---
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 ```javascript
