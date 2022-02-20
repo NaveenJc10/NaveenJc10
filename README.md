@@ -30,7 +30,7 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
-  <code><img width="4%" src="https://ozone3d.net/public/jegx/2020q3/nmap_logo_20201006.jpg"></code>
+  <code><img width="4%" src="https://www.vhv.rs/dpng/d/608-6083498_nmap-logo-hd-png-download.png"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
