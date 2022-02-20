@@ -40,6 +40,7 @@
 - Rebuild all social media applications one after the other, to get better practise
 
 ---
+  🤪 Joke of the day
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
