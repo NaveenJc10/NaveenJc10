@@ -28,7 +28,7 @@
   <code><img width="4%" src="https://img.icons8.com/fluency/344/android-studio--v3.png"></code>
 </p>
 <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img width="4%" src="https://banner2.cleanpng.com/20180629/ozb/kisspng-pycharm-jetbrains-intellij-idea-integrated-develop-5b35cf9d892606.3464795215302532135618.jpg"></code>
+<code><img width="4%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fee31f46e9abd99c76155b28697094c9/pycharm.png"></code>
 
 
 #### 🎯 GOALS IN 2022:
