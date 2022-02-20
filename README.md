@@ -13,7 +13,7 @@
 </p>
 
 
-#### ⚔ Languages & TOOLS:
+#### <h2> ⚔ Languages & TOOLS: </h2>
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -37,11 +37,12 @@
 
 
 
-#### 🎯 GOALS IN 2022:
+#### 🎯📒 GOALS IN 2022:
 
-- Master React & React-Native skills
-- Master MERN stack
-- Rebuild all social media applications one after the other, to get better practise
+- Learn CSS frameworks (Bootstrap,Taliwind)
+- Learn JavaScript framework (React)
+- Learn PHP
+- Designing & Building a Personal Portfolio from SCRATCH!
 
 ---
 
