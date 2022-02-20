@@ -17,6 +17,7 @@
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
