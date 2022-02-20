@@ -51,7 +51,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5d87hmo0aa8xed5ob8gvvp7fd&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5d87hmo0aa8xed5ob8gvvp7fd&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 ```javascript
 // Which came first: the chicken or the egg?
