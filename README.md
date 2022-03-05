@@ -6,7 +6,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 - 📚 I’m currently learning **Javascript, VB.NET, Android Development**
-- 📫 How to reach me **naveenjc10@gmail.com**
+- 📫 Reach me at: **naveenjc10@gmail.com**
 
 
 
