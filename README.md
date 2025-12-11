@@ -39,12 +39,12 @@
 
 
 
-#### 🎯📒 GOALS IN 2024:
+#### 🎯📒 GOALS IN 2026:
 
-- Learn CSS frameworks (Bootstrap,Taliwind)
-- Learn JavaScript framework (React)
-- Learn PHP
-- Designing & Building a Personal Portfolio from SCRATCH!
+- Complete 1–2 Industry Certifications
+- Contribute to Open-Source Security Tools
+- Participate in CTFs
+- Build a full home SOC lab (SIEM, Sysmon, EDR simulation)
 
 ---
 
