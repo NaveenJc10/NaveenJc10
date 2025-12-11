@@ -5,7 +5,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-- 📚 I’m currently learning **PHP, Laravel & Cybersecurity**
+- 📚 I’m currently learning **Splunk & MITRE ATT&CK to understand attacker TTPs**
 - 📫 Reach me at: **naveenjc10@gmail.com**
 
 
