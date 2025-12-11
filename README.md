@@ -1,5 +1,5 @@
 <h1 align="center">Hey,👋🏻 I'm Naveen</h1>
-<h3 align="center">i just got my phd in yapology so you could say i’m a professional yapper. dr yapper if u will</h3>
+<h3 align="center">i just got my phd in yapology so i yap about threats until they make sense.</h3>
 <img align="right" height="350" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f1ay6jgascdcjzgx8u0to78snptwmw7ql8tvsjsa&rid=giphy.gif&ct=g" /> </a>
 </p>
 
