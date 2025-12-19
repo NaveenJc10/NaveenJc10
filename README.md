@@ -1,12 +1,25 @@
 <h1 align="center">Hey,👋🏻 I'm Naveen</h1>
-<h3 align="center">i just got my phd in yapology so i yap about threats until they make sense.</h3>
+<h3 align="center">i just got my phd in yapology so i yap about threats until they make sense.</h3> 
 <img align="right" height="350" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f1ay6jgascdcjzgx8u0to78snptwmw7ql8tvsjsa&rid=giphy.gif&ct=g" /> </a>
 </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>
+  Connect with me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+</h2>
+
+
+
 
 - 📚 I’m currently learning **Splunk & AWS Cloud Security**
 - 📫 Reach me at: **naveenjc10@gmail.com**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=naveenjc10&label=Profile%20Views&color=blueviolet&style=plastic)
+
+
+
+
+
 
 
 
@@ -78,6 +91,7 @@
 - Build a full home SOC lab (SIEM, Sysmon, EDR simulation)
 
 ---
+
 
   
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
