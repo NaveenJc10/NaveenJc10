@@ -14,30 +14,61 @@
 <p align="left">
 </p>
 
+## 🛡️ Cybersecurity Tools & Skills
 
-#### <h2> ⚔ Languages & Tools: </h2>
+### Security & Penetration Testing
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-6DB33F?style=for-the-badge&logo=greenkeeper&logoColor=white)
 
-<p>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>  
-<code> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
-<code><img width="4%" src="https://cdn-icons-png.flaticon.com/512/1365/1365297.png"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://img.icons8.com/fluency/344/android-studio--v3.png"></code>
-<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img width="7%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fee31f46e9abd99c76155b28697094c9/pycharm.png"></code>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a>
+### SIEM & Log Analysis
+<img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="Splunk" width="120"/>
 
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Operating Systems & Virtualization
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+### Networking & Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### Databases & Version Control
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Certifications
+![CEH](https://img.shields.io/badge/CEH-v11-ED1C24?style=for-the-badge&logo=eccouncil&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC²_CC-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
+![CNSP](https://img.shields.io/badge/CNSP-0052CC?style=for-the-badge&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+
+---
+
+
+
+### 🎯 Focus Areas
+- 🔍 **OSINT & Threat Intelligence**
+- 🛡️ **Network Security & Vulnerability Assessment**
+- 🔬 **Digital Forensics & Incident Response**
+- 🎭 **Ethical Hacking & Penetration Testing**
+- 📊 **Security Operations & Log Analysis**
 <br />
 
-
-
+---
 
 #### 🎯📒 GOALS IN 2026:
 
